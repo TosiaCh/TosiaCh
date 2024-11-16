@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi I'm Tosia 🖐️
+🖥️ 2.5 years ago, I started my journey into computer science, out of curiosity about how technology can solve everyday problems and make life easier.
+🌍 I’m still exploring my path, and I believe that with more experience, I’ll discover the area where I can feel most fulfilled.
+📋 Alongside computer science, I’m studying project management, where I’m learning to build a bridge between technology and effective teamwork.
+⛵ In my free time, I enjoy sailing and working on my creativity through painting. 🎨
 
 <!--
 **TosiaCh/TosiaCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
