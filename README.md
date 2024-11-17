@@ -21,7 +21,7 @@
 
 ## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiTosiaCh=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Tosia's GitHub stats](https://github-readme-stats.vercel.app/api?username=TosiaCh)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
