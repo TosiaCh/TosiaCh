@@ -19,6 +19,7 @@
 <img align="left" alt="Google Colab" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" />
 <br />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiTosiaCh=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
