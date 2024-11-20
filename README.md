@@ -3,8 +3,8 @@
   about how technology can solve everyday problems and make life easier.
 - 📋 Alongside computer science, I’m studying project management
   to better connect technology with teamwork and collaboration.
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
+- 🔭 I'm currently working with my friends on a UI for a home product storage web app using React.
+- 🌱 I’m currently learning databases, data analysis, semantic internet.
 
 
 ## 🛠️ Languages and Tools
