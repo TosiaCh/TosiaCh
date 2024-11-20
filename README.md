@@ -1,6 +1,6 @@
 ## Hi I'm Tosia 🖐️
-- 🖥️ 2.5 years ago, I started my journey into computer science, out of curiosity
-  about how technology can solve everyday problems and make life easier.
+- 🖥️ 2.5 years ago, I started studying computer science because
+  I was interested in the complexity and potential of technology.
 - 📋 Alongside computer science, I’m studying project management
   to better connect technology with teamwork and collaboration.
 - 🔭 I'm currently working with my friends on a UI for a home product storage web app using React.
